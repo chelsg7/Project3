@@ -12,7 +12,7 @@ const userSchema = new Schema({
 		type: String,
 		required: false
 	},
-	  // `link` is required and of type String
+	// `link` is required and of type String
 	lastName: {
 		type: String,
 		required: false
